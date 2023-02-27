@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubham.verma/MLE_modules/ml_flow_tutorial/mlruns/0/554b98c5161d4c3a9f83db37405a1013/artifacts
+end_time: 1677443936174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 554b98c5161d4c3a9f83db37405a1013
+run_name: melodic-lynx-968
+run_uuid: 554b98c5161d4c3a9f83db37405a1013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677443931311
+status: 3
+tags: []
+user_id: shubham.verma

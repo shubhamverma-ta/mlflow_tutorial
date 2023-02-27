@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubham.verma/MLE_modules/ml_flow_tutorial/mlruns/0/226eeffd94ae4795991291277a6d7366/artifacts
+end_time: 1677443217933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 226eeffd94ae4795991291277a6d7366
+run_name: orderly-panda-190
+run_uuid: 226eeffd94ae4795991291277a6d7366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677443211926
+status: 3
+tags: []
+user_id: shubham.verma

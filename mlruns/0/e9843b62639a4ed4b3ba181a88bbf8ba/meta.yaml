@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubham.verma/MLE_modules/ml_flow_tutorial/mlruns/0/e9843b62639a4ed4b3ba181a88bbf8ba/artifacts
+end_time: 1677443414905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9843b62639a4ed4b3ba181a88bbf8ba
+run_name: classy-grouse-503
+run_uuid: e9843b62639a4ed4b3ba181a88bbf8ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677443409469
+status: 3
+tags: []
+user_id: shubham.verma

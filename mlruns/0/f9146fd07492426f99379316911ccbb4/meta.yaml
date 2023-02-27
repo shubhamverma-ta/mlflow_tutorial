@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubham.verma/MLE_modules/ml_flow_tutorial/mlruns/0/f9146fd07492426f99379316911ccbb4/artifacts
+end_time: 1677443958446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9146fd07492426f99379316911ccbb4
+run_name: selective-moth-872
+run_uuid: f9146fd07492426f99379316911ccbb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677443953617
+status: 3
+tags: []
+user_id: shubham.verma

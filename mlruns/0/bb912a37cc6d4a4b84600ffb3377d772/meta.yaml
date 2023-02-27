@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubham.verma/MLE_modules/ml_flow_tutorial/mlruns/0/bb912a37cc6d4a4b84600ffb3377d772/artifacts
+end_time: 1677443889868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb912a37cc6d4a4b84600ffb3377d772
+run_name: upbeat-crane-261
+run_uuid: bb912a37cc6d4a4b84600ffb3377d772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677443884820
+status: 3
+tags: []
+user_id: shubham.verma

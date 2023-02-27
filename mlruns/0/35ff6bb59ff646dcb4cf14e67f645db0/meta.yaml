@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shubham.verma/MLE_modules/ml_flow_tutorial/mlruns/0/35ff6bb59ff646dcb4cf14e67f645db0/artifacts
+end_time: 1677443987483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35ff6bb59ff646dcb4cf14e67f645db0
+run_name: adaptable-seal-969
+run_uuid: 35ff6bb59ff646dcb4cf14e67f645db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677443982740
+status: 3
+tags: []
+user_id: shubham.verma
